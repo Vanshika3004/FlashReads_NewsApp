@@ -33,21 +33,6 @@ function Header({ categories, setCategory }) {
           ))}
         </select>
 
-        {/* <select
-         className="p-2 rounded-md bg-white text-black outline-none"
-          onChange={(e) => setCountry(e.target.value)}
-          defaultValue="default"
-        >
-          <option value="default" disabled>
-            Select Country
-          </option>
-          {countries.map((country, index) => (
-            <option key={index} value={country.code}>
-              {country.name}
-            </option>
-          ))}
-        </select> */}
-
       </div>
     </div>
   )

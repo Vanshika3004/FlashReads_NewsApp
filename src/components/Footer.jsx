@@ -5,7 +5,7 @@ function Footer() {
     <footer className="bg-gray-800 text-white text-center py-4">
       <p>Flash Reads © 2025</p>
       <p>
-        Made with ❤️ by{" "}
+      {" "} @ 2025  - All Rights Reserved
         <a
           href="https://vanshika3004.github.io/My-Portfolio.github.io/"
           target="_blank"
